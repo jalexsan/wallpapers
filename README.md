@@ -5,46 +5,10 @@ Welcome to my curated collection of high-quality wallpapers! This repository con
 - **Landscape/**: Contains wallpapers optimized for landscape-oriented displays, such as desktops and laptops.
 - **Portrait/**: Contains wallpapers designed for portrait-oriented displays, such as smartphones and tablets.
 
-## File Organization
-```
-wallpapers/
-├── .github/
-│   └── workflows/
-│       └── release.yml
-├── Landscape/
-│   └── (images)
-├── Portrait/
-│   └── (images)
-└── README.md
-```
+## Download Options
 
-## Download & Usage
-
-### Method 1:
-1. **Clone**: Clone the repository into your system to get all wallpapers. To clone this repository, you'll need **Git** installed on your system.
-   ```bash
-   git clone https://github.com/jalexsan/wallpapers.git
-   ```
-
-2. **Navigate**: Change to the wallpapers directory
-   ```bash
-   cd wallpapers
-   ```
-3. **Update**: Pull the latest wallpapers anytime
-   ```bash
-   git pull origin main
-   ```
-
-### Method 2:
-If you don't want to use Git, you can also:
-- **Download ZIP**: Click the green "Code" button on GitHub and select "Download ZIP"
-- **GitHub CLI**: (requires [GitHub CLI](https://cli.github.com/))
-
-   ```bash
-   gh repo clone jalexsan/wallpapers
-   ```
-
-Don't want to clone/download the entire repository? Download pre-packaged ZIP files:
+### 🚀 Quick Downloads (No Git Required)
+Don't want to clone the entire repository? Download pre-packaged ZIP files:
 
 - **[wallpapers.zip](https://github.com/jalexsan/wallpapers/releases/latest/download/wallpapers.zip)** - Complete collection
 - **[landscape.zip](https://github.com/jalexsan/wallpapers/releases/latest/download/landscape.zip)** - Landscape wallpapers only
@@ -52,7 +16,32 @@ Don't want to clone/download the entire repository? Download pre-packaged ZIP fi
 
 *ZIP files are updated with each release.*
 
-## Prerequisites: Installing 'Git'
+### 💻 Clone with Git (Recommended for Regular Updates)
+
+To clone this repository and get automatic updates, you'll need **Git** installed on your system. If you don't have Git installed, see the [Git Installation Guide](#installing-git) below.
+
+**Clone the repository:**
+```bash
+git clone https://github.com/jalexsan/wallpapers.git
+```
+
+**Navigate to the folder:**
+```bash
+cd wallpapers
+```
+
+**Get latest updates anytime:**
+```bash
+git pull origin main
+```
+
+### 🌐 Alternative Download Methods
+- **Download ZIP**: Click the green "Code" button on GitHub and select "Download ZIP"
+- **GitHub CLI**: `gh repo clone jalexsan/wallpapers` (requires [GitHub CLI](https://cli.github.com/))
+
+## Installing Git
+
+If you chose the Git method above but don't have Git installed, follow these instructions for your operating system:
 
 ### Windows
 **Option 1: Git for Windows (Recommended)**
@@ -61,20 +50,17 @@ Don't want to clone/download the entire repository? Download pre-packaged ZIP fi
 3. Use default settings (recommended for most users)
 
 **Option 2: Using Package Managers**
-- **Winget: (Recommended)**
-
+- **Winget (Recommended):**
    ```bash
    winget install --id Git.Git -e --source winget
    ```
    
 - **Chocolatey:**
-
    ```bash
    choco install git
    ```
    
 - **Scoop:**
-
    ```bash
    scoop install git
    ```
@@ -136,3 +122,17 @@ After installing Git, verify it's working by checking the version:
 ```bash
 git --version
 ```
+
+## File Organization
+```
+wallpapers/
+├── .github/
+│   └── workflows/
+│       └── release.yml
+├── Landscape/
+│   └── (images)
+├── Portrait/
+│   └── (images)
+└── README.md
+```
+
