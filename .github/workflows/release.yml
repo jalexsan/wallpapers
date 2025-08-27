@@ -23,14 +23,10 @@ jobs:
         # Create portrait.zip
         zip -r portrait.zip Portrait/
 
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Create Release with Assets
+      uses: softprops/action-gh-release@v1
       with:
-        tag_name: ${{ github.ref }}
-        release_name: Wallpapers Collection ${{ github.ref }}
+        name: Wallpapers Collection ${{ github.ref_name }}
         body: |
           ## 📸 Wallpapers Collection Release
           
@@ -44,35 +40,9 @@ jobs:
           High-quality wallpapers organized by orientation for easy browsing.
           
           Enjoy your new wallpapers! 🖼️
+        files: |
+          wallpapers.zip
+          landscape.zip
+          portrait.zip
         draft: false
         prerelease: false
-
-    - name: Upload Complete Collection
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./wallpapers.zip
-        asset_name: wallpapers.zip
-        asset_content_type: application/zip
-
-    - name: Upload Landscape Collection
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./landscape.zip
-        asset_name: landscape.zip
-        asset_content_type: application/zip
-
-    - name: Upload Portrait Collection
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./portrait.zip
-        asset_name: portrait.zip
-        asset_content_type: application/zip
