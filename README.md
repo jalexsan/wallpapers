@@ -41,6 +41,7 @@ wallpapers/
 If you don't want to use Git, you can also:
 - **Download ZIP**: Click the green "Code" button on GitHub and select "Download ZIP"
 - **GitHub CLI**: (requires [GitHub CLI](https://cli.github.com/))
+
    ```bash
    gh repo clone jalexsan/wallpapers
    ```
@@ -62,15 +63,20 @@ Don't want to clone/download the entire repository? Download pre-packaged ZIP fi
 3. Use default settings (recommended for most users)
 
 **Option 2: Using Package Managers**
-- **Winget**: (Recommended)
+- **Winget: (Recommended)**
+
    ```bash
    winget install --id Git.Git -e --source winget
    ```
-- **Chocolatey**:
+   
+- **Chocolatey:**
+
    ```bash
    choco install git
    ```
-- **Scoop**
+   
+- **Scoop:**
+
    ```bash
    scoop install git
    ```
