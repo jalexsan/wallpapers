@@ -22,9 +22,7 @@ wallpapers/
 
 ### Method 1:
 1. **Clone**: Clone the repository into ur pc to get all wallpapers
-
-NOTE: To clone this repository, you'll need **Git** installed on your system.
-   
+   NOTE: To clone this repository, you'll need **Git** installed on your system.
    ```bash
    git clone https://github.com/jalexsan/wallpapers.git
    ```
