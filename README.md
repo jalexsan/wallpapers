@@ -7,7 +7,7 @@ Welcome to my curated collection of high-quality wallpapers! This repository con
 
 ## Download Options
 
-### 🚀 Quick Downloads (No Git Required)
+### 🚀 Quick Downloads
 Don't want to clone the entire repository? Download pre-packaged ZIP files:
 
 - **[wallpapers.zip](https://github.com/jalexsan/wallpapers/releases/latest/download/wallpapers.zip)** - Complete collection
@@ -123,6 +123,13 @@ After installing Git, verify it's working by checking the version:
 git --version
 ```
 
+**Expected output examples:**
+- Windows: `git version 2.45.2.windows.1`
+- macOS: `git version 2.45.2`
+- Linux: `git version 2.45.2`
+
+✅ If you see a version number, Git is installed successfully! Now you can use the [Clone with Git method](#-clone-with-git-recommended-for-regular-updates) above.
+
 ## File Organization
 ```
 wallpapers/
@@ -135,4 +142,3 @@ wallpapers/
 │   └── (images)
 └── README.md
 ```
-
