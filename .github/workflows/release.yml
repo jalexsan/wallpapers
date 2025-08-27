@@ -1,0 +1,78 @@
+name: Create Release with ZIP Files
+
+on:
+  push:
+    tags:
+      - 'v*'  # Triggers when you push tags like v1.0.0
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Create ZIP files
+      run: |
+        # Create wallpapers.zip (everything except .git and .github)
+        zip -r wallpapers.zip . -x "*.git*" "*.DS_Store*" "*.github*"
+        
+        # Create landscape.zip
+        zip -r landscape.zip Landscape/
+        
+        # Create portrait.zip
+        zip -r portrait.zip Portrait/
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Wallpapers Collection ${{ github.ref }}
+        body: |
+          ## 📸 Wallpapers Collection Release
+          
+          Choose the download that fits your needs:
+          
+          - **wallpapers.zip**: Complete collection with both landscape and portrait
+          - **landscape.zip**: Desktop/laptop wallpapers only
+          - **portrait.zip**: Mobile/tablet wallpapers only
+          
+          ## 🎨 What's Included
+          High-quality wallpapers organized by orientation for easy browsing.
+          
+          Enjoy your new wallpapers! 🖼️
+        draft: false
+        prerelease: false
+
+    - name: Upload Complete Collection
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./wallpapers.zip
+        asset_name: wallpapers.zip
+        asset_content_type: application/zip
+
+    - name: Upload Landscape Collection
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./landscape.zip
+        asset_name: landscape.zip
+        asset_content_type: application/zip
+
+    - name: Upload Portrait Collection
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./portrait.zip
+        asset_name: portrait.zip
+        asset_content_type: application/zip
