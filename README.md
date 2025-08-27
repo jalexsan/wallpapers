@@ -21,18 +21,19 @@ wallpapers/
 ## Download & Usage
 
 ### Method 1:
-1. **Download**: Clone the repository to get all wallpapers:
-   NOTE: To clone this repository, you'll need Git installed on your system.
+1. **Clone**: Clone the repository into ur pc to get all wallpapers
+
+NOTE: To clone this repository, you'll need **Git** installed on your system.
    
    ```bash
    git clone https://github.com/jalexsan/wallpapers.git
    ```
 
-2. **Navigate**: Change to the wallpapers directory:
+2. **Navigate**: Change to the wallpapers directory
    ```bash
    cd wallpapers
    ```
-3. **Update**: Pull the latest wallpapers anytime:
+3. **Update**: Pull the latest wallpapers anytime
    ```bash
    git pull origin main
    ```
