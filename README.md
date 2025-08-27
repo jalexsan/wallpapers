@@ -6,6 +6,7 @@ Welcome to my curated collection of high-quality wallpapers! This repository con
 - **Portrait/**: Contains wallpapers designed for portrait-oriented displays, such as smartphones and tablets.
 
 ## File Organization
+```
 wallpapers/
 ├── .github/
 │   └── workflows/
@@ -15,6 +16,7 @@ wallpapers/
 ├── Portrait/
 │   └── (images)
 └── README.md
+```
 
 ## Download & Usage
 
