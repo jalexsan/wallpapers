@@ -21,7 +21,7 @@ wallpapers/
 ## Download & Usage
 
 ### Method 1:
-1. **Clone**: Clone the repository into ur pc to get all wallpapers. To clone this repository, you'll need **Git** installed on your system.
+1. **Clone**: Clone the repository into your system to get all wallpapers. To clone this repository, you'll need **Git** installed on your system.
    ```bash
    git clone https://github.com/jalexsan/wallpapers.git
    ```
