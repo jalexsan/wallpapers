@@ -1,16 +1,11 @@
-# Dune
-
-## Preview
-
-**01.Dune.jpg**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/01.Dune.jpg" alt="01.Dune.jpg" style="max-width: 300px;">
-**02.Dune.jpg**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/02.Dune.jpg" alt="02.Dune.jpg" style="max-width: 300px;">
-**03.Dune.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/03.Dune.png" alt="03.Dune.png" style="max-width: 300px;">
-**04.Dune.jpg**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/04.Dune.jpg" alt="04.Dune.jpg" style="max-width: 300px;">
-**05.Dune.jpg**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/05.Dune.jpg" alt="05.Dune.jpg" style="max-width: 300px;">
-**06.Dune.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/06.Dune.png" alt="06.Dune.png" style="max-width: 300px;">
+<h4 align="center"><div align="left"><table><tr></tr><tr><td>🖼️ Dune</tr></table></div></h4>
+<p align="center">
+  <div align="left"><table><tr></tr><tr><td>
+  <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/01.Dune.jpg">
+  <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/02.Dune.jpg">
+  <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/03.Dune.png">
+  <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/04.Dune.jpg">
+  <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/05.Dune.jpg">
+  <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Dune/06.Dune.png">
+    </tr></table></div>
+</p>
