@@ -1,23 +1,25 @@
-# Windows 11
+# Windows_11
 
 ## Preview
 
-**04.Windows_11.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/04.Windows_11.png" alt="04.Windows_11.png" style="max-width: 300px;">
-**05.Windows_11.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/05.Windows_11.png" alt="05.Windows_11.png" style="max-width: 300px;">
-**08.Windows_11.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/08.Windows_11.png" alt="08.Windows_11.png" style="max-width: 300px;">
-**09.Windows_11.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/09.Windows_11.png" alt="09.Windows_11.png" style="max-width: 300px;">
 **01.Windows_11.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/01.Windows_11.jpg" alt="01.Windows_11.jpg" style="max-width: 300px;">
 **02.Windows_11.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/02.Windows_11.jpg" alt="02.Windows_11.jpg" style="max-width: 300px;">
+**03.Windows_11.jpeg**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/03.Windows_11.jpeg" alt="03.Windows_11.jpeg" style="max-width: 300px;">
+**04.Windows_11.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/04.Windows_11.png" alt="04.Windows_11.png" style="max-width: 300px;">
+**05.Windows_11.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/05.Windows_11.png" alt="05.Windows_11.png" style="max-width: 300px;">
 **06.Windows_11.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/06.Windows_11.jpg" alt="06.Windows_11.jpg" style="max-width: 300px;">
 **07.Windows_11.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/07.Windows_11.jpg" alt="07.Windows_11.jpg" style="max-width: 300px;">
+**08.Windows_11.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/08.Windows_11.png" alt="08.Windows_11.png" style="max-width: 300px;">
+**09.Windows_11.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/09.Windows_11.png" alt="09.Windows_11.png" style="max-width: 300px;">
 **10.Windows_11.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/10.Windows_11.jpg" alt="10.Windows_11.jpg" style="max-width: 300px;">
 **11.Windows_11.jpg**
@@ -80,5 +82,3 @@
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/39.Windows_11.jpg" alt="39.Windows_11.jpg" style="max-width: 300px;">
 **40.Windows_11.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/40.Windows_11.jpg" alt="40.Windows_11.jpg" style="max-width: 300px;">
-**03.Windows_11.jpeg**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Windows_11/03.Windows_11.jpeg" alt="03.Windows_11.jpeg" style="max-width: 300px;">

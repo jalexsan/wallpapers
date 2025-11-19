@@ -4,26 +4,6 @@
 
 **01.Portrait.png**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/01.Portrait.png" alt="01.Portrait.png" style="max-width: 300px;">
-**73.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/73.Portrait.png" alt="73.Portrait.png" style="max-width: 300px;">
-**74.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/74.Portrait.png" alt="74.Portrait.png" style="max-width: 300px;">
-**75.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/75.Portrait.png" alt="75.Portrait.png" style="max-width: 300px;">
-**76.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/76.Portrait.png" alt="76.Portrait.png" style="max-width: 300px;">
-**77.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/77.Portrait.png" alt="77.Portrait.png" style="max-width: 300px;">
-**78.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/78.Portrait.png" alt="78.Portrait.png" style="max-width: 300px;">
-**79.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/79.Portrait.png" alt="79.Portrait.png" style="max-width: 300px;">
-**80.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/80.Portrait.png" alt="80.Portrait.png" style="max-width: 300px;">
-**81.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/81.Portrait.png" alt="81.Portrait.png" style="max-width: 300px;">
-**82.Portrait.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/82.Portrait.png" alt="82.Portrait.png" style="max-width: 300px;">
 **02.Portrait.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/02.Portrait.jpg" alt="02.Portrait.jpg" style="max-width: 300px;">
 **03.Portrait.jpg**
@@ -166,6 +146,26 @@
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/71.Portrait.jpg" alt="71.Portrait.jpg" style="max-width: 300px;">
 **72.Portrait.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/72.Portrait.jpg" alt="72.Portrait.jpg" style="max-width: 300px;">
+**73.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/73.Portrait.png" alt="73.Portrait.png" style="max-width: 300px;">
+**74.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/74.Portrait.png" alt="74.Portrait.png" style="max-width: 300px;">
+**75.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/75.Portrait.png" alt="75.Portrait.png" style="max-width: 300px;">
+**76.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/76.Portrait.png" alt="76.Portrait.png" style="max-width: 300px;">
+**77.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/77.Portrait.png" alt="77.Portrait.png" style="max-width: 300px;">
+**78.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/78.Portrait.png" alt="78.Portrait.png" style="max-width: 300px;">
+**79.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/79.Portrait.png" alt="79.Portrait.png" style="max-width: 300px;">
+**80.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/80.Portrait.png" alt="80.Portrait.png" style="max-width: 300px;">
+**81.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/81.Portrait.png" alt="81.Portrait.png" style="max-width: 300px;">
+**82.Portrait.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/82.Portrait.png" alt="82.Portrait.png" style="max-width: 300px;">
 **83.Portrait.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Portrait/83.Portrait.jpg" alt="83.Portrait.jpg" style="max-width: 300px;">
 **84.Portrait.jpg**

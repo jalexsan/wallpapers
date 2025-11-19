@@ -1,31 +1,25 @@
-# Catppuccin Latte
+# Catppuccin_Latte
 
 ## Preview
 
-**04.Catppuccin_Latte.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/04.Catppuccin_Latte.png" alt="04.Catppuccin_Latte.png" style="max-width: 300px;">
-**05.Catppuccin_Latte.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/05.Catppuccin_Latte.png" alt="05.Catppuccin_Latte.png" style="max-width: 300px;">
-**06.Catppuccin_Latte.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/06.Catppuccin_Latte.png" alt="06.Catppuccin_Latte.png" style="max-width: 300px;">
-**09.Catppuccin_Latte.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/09.Catppuccin_Latte.png" alt="09.Catppuccin_Latte.png" style="max-width: 300px;">
-**20.Catppuccin_Latte.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/20.Catppuccin_Latte.png" alt="20.Catppuccin_Latte.png" style="max-width: 300px;">
-**21.Catppuccin_Latte.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/21.Catppuccin_Latte.png" alt="21.Catppuccin_Latte.png" style="max-width: 300px;">
-**22.Catppuccin_Latte.png**
-<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/22.Catppuccin_Latte.png" alt="22.Catppuccin_Latte.png" style="max-width: 300px;">
 **01.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/01.Catppuccin_Latte.jpg" alt="01.Catppuccin_Latte.jpg" style="max-width: 300px;">
 **02.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/02.Catppuccin_Latte.jpg" alt="02.Catppuccin_Latte.jpg" style="max-width: 300px;">
 **03.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/03.Catppuccin_Latte.jpg" alt="03.Catppuccin_Latte.jpg" style="max-width: 300px;">
+**04.Catppuccin_Latte.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/04.Catppuccin_Latte.png" alt="04.Catppuccin_Latte.png" style="max-width: 300px;">
+**05.Catppuccin_Latte.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/05.Catppuccin_Latte.png" alt="05.Catppuccin_Latte.png" style="max-width: 300px;">
+**06.Catppuccin_Latte.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/06.Catppuccin_Latte.png" alt="06.Catppuccin_Latte.png" style="max-width: 300px;">
 **07.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/07.Catppuccin_Latte.jpg" alt="07.Catppuccin_Latte.jpg" style="max-width: 300px;">
 **08.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/08.Catppuccin_Latte.jpg" alt="08.Catppuccin_Latte.jpg" style="max-width: 300px;">
+**09.Catppuccin_Latte.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/09.Catppuccin_Latte.png" alt="09.Catppuccin_Latte.png" style="max-width: 300px;">
 **10.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/10.Catppuccin_Latte.jpg" alt="10.Catppuccin_Latte.jpg" style="max-width: 300px;">
 **11.Catppuccin_Latte.jpg**
@@ -46,6 +40,12 @@
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/18.Catppuccin_Latte.jpg" alt="18.Catppuccin_Latte.jpg" style="max-width: 300px;">
 **19.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/19.Catppuccin_Latte.jpg" alt="19.Catppuccin_Latte.jpg" style="max-width: 300px;">
+**20.Catppuccin_Latte.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/20.Catppuccin_Latte.png" alt="20.Catppuccin_Latte.png" style="max-width: 300px;">
+**21.Catppuccin_Latte.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/21.Catppuccin_Latte.png" alt="21.Catppuccin_Latte.png" style="max-width: 300px;">
+**22.Catppuccin_Latte.png**
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/22.Catppuccin_Latte.png" alt="22.Catppuccin_Latte.png" style="max-width: 300px;">
 **23.Catppuccin_Latte.jpg**
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/23.Catppuccin_Latte.jpg" alt="23.Catppuccin_Latte.jpg" style="max-width: 300px;">
 **24.Catppuccin_Latte.jpg**
