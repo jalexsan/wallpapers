@@ -189,7 +189,6 @@ Below are just a few of our themes, showcasing a variety of styles. Explore more
 [![Solar-Pulse](https://placehold.co/130x30/FFA500/0A0A0A?text=Solar+Pulse&font=Oswald)](https://github.com/jalexsan/wallpapers/tree/master/Solar_Pulse)
 [![Synth-Wave](https://placehold.co/130x30/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/jalexsan/wallpapers/tree/master/Synth_Wave)
 [![Twilight](https://placehold.co/130x30/6A5ACD/1C1C3C?text=Twilight&font=Oswald)](https://github.com/jalexsan/wallpapers/tree/master/Twilight)
-[![Wheels](https://placehold.co/130x30/708090/D3D3D3?text=Wheels&font=Oswald)](https://github.com/jalexsan/wallpapers/tree/master/Wheels)
 [![Windows-11](https://placehold.co/130x30/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/jalexsan/wallpapers/tree/master/Windows_11)
 
   </td></tr></table>
@@ -201,55 +200,55 @@ Below are just a few of our themes, showcasing a variety of styles. Explore more
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>☕ Catppuccin Mocha</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/04.Catppuccin_Mocha.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/21.Catppuccin_Mocha.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/19.Catppuccin_Mocha.jpg">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/27.Catppuccin_Mocha.jpg">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/25.Catppuccin_Mocha.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/04.Catppuccin_Mocha.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/21.Catppuccin_Mocha.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/19.Catppuccin_Mocha.jpg">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/27.Catppuccin_Mocha.jpg">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Catppuccin_Mocha/25.Catppuccin_Mocha.png">
       </tr></table></div>
   </p>
 
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🪨 Graphite Mono</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/13.Graphite_Mono.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/21.Graphite_Mono.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/24.Graphite_Mono.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/14.Graphite_Mono.jpg">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/19.Graphite_Mono.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/13.Graphite_Mono.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/21.Graphite_Mono.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/24.Graphite_Mono.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/14.Graphite_Mono.jpg">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Graphite_Mono/19.Graphite_Mono.png">
       </tr></table></div>
   </p>
   
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🌿 Green Lush</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Green_Lush/08.Green_Lush.jpg">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Green_Lush/03.Green_Lush.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Green_Lush/04.Green_Lush.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Green_Lush/16.Green_Lush.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Green_Lush/17.Green_Lush.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Green_Lush/08.Green_Lush.jpg">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Green_Lush/03.Green_Lush.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Green_Lush/04.Green_Lush.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Green_Lush/16.Green_Lush.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Green_Lush/17.Green_Lush.png">
       </tr></table></div>
   </p>
 
    <h4 align="center"><div align="center"><table><tr></tr><tr><td>🩸 Scarlet Night</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/01.Scarlet_Night.jpg">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/02.Scarlet_Night.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/10.Scarlet_Night.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/14.Scarlet_Night.jpg">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/18.Scarlet_Night.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/01.Scarlet_Night.jpg">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/02.Scarlet_Night.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/10.Scarlet_Night.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/14.Scarlet_Night.jpg">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Scarlet_Night/18.Scarlet_Night.png">
       </tr></table></div>
   </p>
 
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🍬 Paranoid Sweet</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/01.Paranoid_Sweet.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/03.Paranoid_Sweet.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/20.Paranoid_Sweet.jpg">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/22.Paranoid_Sweet.png">
-    <img src="https://media.githubusercontent.com/media/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/05.Paranoid_Sweet.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/01.Paranoid_Sweet.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/03.Paranoid_Sweet.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/20.Paranoid_Sweet.jpg">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/22.Paranoid_Sweet.png">
+    <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/refs/heads/master/Paranoid_Sweet/05.Paranoid_Sweet.png">
       </tr></table></div>
   </p>
 
