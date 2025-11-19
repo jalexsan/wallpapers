@@ -1,4 +1,4 @@
-# Synth_Wave
+# Synth Wave
 
 ## Preview
 

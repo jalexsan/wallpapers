@@ -1,4 +1,4 @@
-# Nordic_Blue
+# Nordic Blue
 
 ## Preview
 

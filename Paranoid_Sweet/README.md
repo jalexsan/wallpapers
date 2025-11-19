@@ -1,4 +1,4 @@
-# Paranoid_Sweet
+# Paranoid Sweet
 
 ## Preview
 

@@ -1,4 +1,4 @@
-# Rosé_Pine
+# Rosé Pine
 
 ## Preview
 

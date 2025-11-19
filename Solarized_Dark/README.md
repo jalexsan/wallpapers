@@ -1,4 +1,4 @@
-# Solarized_Dark
+# Solarized Dark
 
 ## Preview
 

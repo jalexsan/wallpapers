@@ -1,4 +1,4 @@
-# Osaka_Jade
+# Osaka Jade
 
 ## Preview
 

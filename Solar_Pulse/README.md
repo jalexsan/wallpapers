@@ -1,4 +1,4 @@
-# Solar_Pulse
+# Solar Pulse
 
 ## Preview
 

@@ -1,4 +1,4 @@
-# Scarlet_Night
+# Scarlet Night
 
 ## Preview
 

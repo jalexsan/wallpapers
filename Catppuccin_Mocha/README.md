@@ -1,4 +1,4 @@
-# Catppuccin_Mocha
+# Catppuccin Mocha
 
 ## Preview
 

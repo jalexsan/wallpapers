@@ -1,4 +1,4 @@
-# Lucid_Aurora
+# Lucid Aurora
 
 ## Preview
 

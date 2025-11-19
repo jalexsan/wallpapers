@@ -1,4 +1,4 @@
-# Catppuccin_Latte
+# Catppuccin Latte
 
 ## Preview
 

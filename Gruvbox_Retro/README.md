@@ -1,4 +1,4 @@
-# Gruvbox_Retro
+# Gruvbox Retro
 
 ## Preview
 

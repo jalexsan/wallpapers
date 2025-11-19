@@ -1,4 +1,4 @@
-# Green_Lush
+# Green Lush
 
 ## Preview
 

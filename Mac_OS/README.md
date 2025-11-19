@@ -1,4 +1,4 @@
-# Mac_OS
+# Mac OS
 
 ## Preview
 

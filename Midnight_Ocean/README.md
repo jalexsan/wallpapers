@@ -1,4 +1,4 @@
-# Midnight_Ocean
+# Midnight Ocean
 
 ## Preview
 

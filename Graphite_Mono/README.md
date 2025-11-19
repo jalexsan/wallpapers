@@ -1,4 +1,4 @@
-# Graphite_Mono
+# Graphite Mono
 
 ## Preview
 
