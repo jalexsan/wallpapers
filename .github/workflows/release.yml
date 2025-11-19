@@ -1,0 +1,37 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: Create individual theme zips
+        run: |
+          for dir in */; do
+            theme_name="${dir%/}"
+            zip -r "${theme_name}.zip" "$dir" -x "*/.*" -x ".*"
+          done
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            rename_wallpapers.py
+            *.zip
+          body: |
+            Wallpapers collection - ${{ github.ref_name }}
+            
+            **Downloads:**
+            - `rename_wallpapers.py` - Python Script to rename wallpapers
+            - Individual theme zips - Download specific themes separately
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
