@@ -1,7 +1,6 @@
 # Catppuccin Latte
 
-## Preview
-
+<h4 align="center"><div align="center"><table><tr></tr><tr><td>🖼️ Preview</tr></table></div></h4>
 <div align="left"><table><tr></tr><tr><td>
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Catppuccin_Latte/01.Catppuccin_Latte.jpg">
 <p><em>01.Catppuccin_Latte.jpg</em></p>

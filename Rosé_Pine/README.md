@@ -1,7 +1,6 @@
 # Rosé Pine
 
-## Preview
-
+<h4 align="center"><div align="center"><table><tr></tr><tr><td>🖼️ Preview</tr></table></div></h4>
 <div align="left"><table><tr></tr><tr><td>
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Rosé_Pine/01.Rosé_Pine.jpeg">
 <p><em>01.Rosé_Pine.jpeg</em></p>
