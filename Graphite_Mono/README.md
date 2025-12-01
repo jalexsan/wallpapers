@@ -98,4 +98,6 @@
 <p><em>47.Graphite_Mono.jpg</em></p>
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Graphite_Mono/48.Graphite_Mono.jpg">
 <p><em>48.Graphite_Mono.jpg</em></p>
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Graphite_Mono/49.Graphite_Mono.jpg">
+<p><em>49.Graphite_Mono.jpg</em></p>
 </tr></table></div>

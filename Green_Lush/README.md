@@ -72,4 +72,10 @@
 <p><em>34.Green_Lush.jpg</em></p>
 <img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Green_Lush/35.Green_Lush.png">
 <p><em>35.Green_Lush.png</em></p>
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Green_Lush/36.Green_Lush.png">
+<p><em>36.Green_Lush.png</em></p>
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Green_Lush/37.Green_Lush.png">
+<p><em>37.Green_Lush.png</em></p>
+<img src="https://raw.githubusercontent.com/jalexsan/wallpapers/master/Green_Lush/38.Green_Lush.png">
+<p><em>38.Green_Lush.png</em></p>
 </tr></table></div>
